@@ -28,7 +28,7 @@ structopt = { git = "https://github.com/TeXitoi/structopt/", rev = "0c888e962d84
 syslog = "4.0.1"
 tokio-core = "0.1"
 tokio-io = "0.1"
-tokio-signal = "0.1"
+tokio-signal = "0.2"
 xdg = "2.2"
 whoami = "0.5.3"
 
