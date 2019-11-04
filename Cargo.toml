@@ -25,7 +25,7 @@ serde_ini = "0.2.0"
 sha-1 = "0.8"
 simplelog = "0.7"
 structopt = { git = "https://github.com/TeXitoi/structopt/", rev = "0c888e962d842f2c90c6c290d3a2a40947b37005", features = ["color"] }
-syslog = "4.0.1"
+syslog = "5.0.0"
 tokio-core = "0.1"
 tokio-io = "0.1"
 tokio-signal = "0.1"
