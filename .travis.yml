@@ -86,5 +86,6 @@ deploy:
   file_glob: true
   file: "spotifyd*zip"
   skip_cleanup: true
+  on:
     branch: master
     tags: true
